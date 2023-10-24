@@ -24,7 +24,7 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 Hello rails back-end <a name="about-project"></a>
+# 📖 Hello rails back-end App <a name="about-project"></a>
 
 This project is a hello-rails-back-end project built with Webpack with jsbundling-rails gem.
 
