@@ -10,6 +10,7 @@
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
+    - [Frontend](#frontend)
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
   - [Prerequisites](#prerequisites)
@@ -25,7 +26,7 @@
 
 # 📖 Hello rails back-end <a name="about-project"></a>
 
-This project is a hello react-rails project built with Webpack with jsbundling-rails gem.
+This project is a hello-rails-back-end project built with Webpack with jsbundling-rails gem.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -40,8 +41,12 @@ This project is a hello react-rails project built with Webpack with jsbundling-r
 ### Key Features <a name="key-features"></a>
 
 Key features of the application.
-
 - **Generate random greetings**
+
+### Frontend:
+[>>> Front End Repo URL <<<](https://github.com/Zafron047/hello-react-front-end)
+
+
 
 <!-- LIVE DEMO -->
 
